@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "mythriels-end-ores:raw_mythril"
+        }
+      ],
+      "conditions": [
+        {
+            "condition": "minecraft:survives_explosion"
+        }
+      ],
+      "functions": [
+        {
+          "enchantment": "minecraft:fortune",
+          "formula": "minecraft:ore_drops",
+          "function": "minecraft:apply_bonus"
+        }
+      ],
+      "rolls": 1
+    }
+  ]
+}
