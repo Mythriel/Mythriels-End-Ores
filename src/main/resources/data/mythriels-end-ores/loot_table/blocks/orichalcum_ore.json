@@ -15,9 +15,9 @@
       ],
       "functions": [
         {
-          "function": "minecraft:apply_bonus",
           "enchantment": "minecraft:fortune",
-          "formula": "minecraft:ore_drops"
+          "formula": "minecraft:ore_drops",
+          "function": "minecraft:apply_bonus"
         }
       ],
       "rolls": 1
