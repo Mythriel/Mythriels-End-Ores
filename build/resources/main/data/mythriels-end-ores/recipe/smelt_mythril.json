@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "ingredient": "untitled-minecraft-mod:raw_mythril",
+  "result": {
+    "id": "untitled-minecraft-mod:mythril"
+  },
+  "experience": 2,
+  "cookingtime": 200
+}
