@@ -4,5 +4,8 @@
   "item.mythriels-end-ores.orichalcum" : "Orichalcum Ingot",
   "item.mythriels-end-ores.raw_orichalcum": "Raw Orichalcum",
   "block.mythriels-end-ores.mythril_ore": "Mythril Ore",
-  "block.mythriels-end-ores.orichalcum_ore": "Orichalcum Ore"
+  "block.mythriels-end-ores.orichalcum_ore": "Orichalcum Ore",
+
+
+  "itemgroup.mythriels_end_ores_items": "Mythriel's End Ores"
 }

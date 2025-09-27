@@ -1,9 +1,9 @@
 {
   "type": "minecraft:smelting",
   "category": "misc",
-  "ingredient": "untitled-minecraft-mod:raw_orichalcum",
+  "ingredient": "mythriels-end-ores:raw_orichalcum",
   "result": {
-    "id": "untitled-minecraft-mod:orichalcum"
+    "id": "mythriels-end-ores:orichalcum"
   },
   "experience": 2,
   "cookingtime": 200

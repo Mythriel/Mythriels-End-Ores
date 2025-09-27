@@ -1,9 +1,9 @@
 {
   "type": "minecraft:smelting",
   "category": "misc",
-  "ingredient": "untitled-minecraft-mod:raw_mythril",
+  "ingredient": "mythriels-end-ores:raw_mythril",
   "result": {
-    "id": "untitled-minecraft-mod:mythril"
+    "id": "mythriels-end-ores:mythril"
   },
   "experience": 2,
   "cookingtime": 200

@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/untitled1.client.iml" filepath="$PROJECT_DIR$/.idea/modules/untitled1.client.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/untitled1.main.iml" filepath="$PROJECT_DIR$/.idea/modules/untitled1.main.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/untitled1.test.iml" filepath="$PROJECT_DIR$/.idea/modules/untitled1.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Mythriels-End-Ores.client.iml" filepath="$PROJECT_DIR$/.idea/modules/Mythriels-End-Ores.client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Mythriels-End-Ores.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Mythriels-End-Ores.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Mythriels-End-Ores.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Mythriels-End-Ores.test.iml" />
     </modules>
   </component>
 </project>
